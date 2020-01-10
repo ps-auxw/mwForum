@@ -6,13 +6,13 @@ mwForum is an open-source, Web-based discussion forum system. mwForum is based o
 
 ## Documentation
 
-* Readme.html: this file
-* Install.html: installation guide (incl. system requirements)
-* FAQ.html: administration topics
-* Changes.html: list of new features, changes and bugfixes
-* Upgrade.html: instructions for upgrading older installations
-* Develop.html: development/customization notes
-* License.html: the GNU General Public License
+* README.md: this file
+* doc/Install.html: installation guide (incl. system requirements)
+* doc/FAQ.html: administration topics
+* doc/Changes.html: list of new features, changes and bugfixes
+* doc/Upgrade.html: instructions for upgrading older installations
+* doc/Develop.html: development/customization notes
+* LICENSE: the GNU General Public License
 
 ## License
 
